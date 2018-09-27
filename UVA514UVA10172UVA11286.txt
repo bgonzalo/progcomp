@@ -1,0 +1,1 @@
+los problemas UVA 00514, UVA 10172 y UVA 11286 no los pude resolver y tampoco encontre soluciones python
